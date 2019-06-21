@@ -1,0 +1,27 @@
+C:\Users\多多\documents\visual studio 2010\Projects\Geodetic coordinate transformation\Geodetic coordinate transformation\bin\Debug\Geodetic coordinate transformation.exe
+C:\Users\多多\documents\visual studio 2010\Projects\Geodetic coordinate transformation\Geodetic coordinate transformation\bin\Debug\Geodetic coordinate transformation.pdb
+C:\Users\多多\documents\visual studio 2010\Projects\Geodetic coordinate transformation\Geodetic coordinate transformation\obj\x86\Debug\Geodetic_coordinate_transformation.Form1.resources
+C:\Users\多多\documents\visual studio 2010\Projects\Geodetic coordinate transformation\Geodetic coordinate transformation\obj\x86\Debug\Geodetic_coordinate_transformation.Properties.Resources.resources
+C:\Users\多多\documents\visual studio 2010\Projects\Geodetic coordinate transformation\Geodetic coordinate transformation\obj\x86\Debug\Geodetic coordinate transformation.csproj.GenerateResource.Cache
+C:\Users\多多\documents\visual studio 2010\Projects\Geodetic coordinate transformation\Geodetic coordinate transformation\obj\x86\Debug\Geodetic coordinate transformation.exe
+C:\Users\多多\documents\visual studio 2010\Projects\Geodetic coordinate transformation\Geodetic coordinate transformation\obj\x86\Debug\Geodetic coordinate transformation.pdb
+C:\Users\多多\Desktop\2016114697_测绘1 班_刘子昂_大地坐标转换\Geodetic coordinate transformation\Geodetic coordinate transformation\obj\x86\Debug\Geodetic coordinate transformation.exe
+C:\Users\多多\Desktop\2016114697_测绘1 班_刘子昂_大地坐标转换\Geodetic coordinate transformation\Geodetic coordinate transformation\obj\x86\Debug\Geodetic coordinate transformation.pdb
+C:\Users\多多\Desktop\2016114697_测绘1 班_刘子昂_大地坐标转换\Geodetic coordinate transformation\Geodetic coordinate transformation\bin\Debug\Geodetic coordinate transformation.exe
+C:\Users\多多\Desktop\2016114697_测绘1 班_刘子昂_大地坐标转换\Geodetic coordinate transformation\Geodetic coordinate transformation\bin\Debug\Geodetic coordinate transformation.pdb
+C:\Users\多多\Desktop\2016114697_测绘1 班_刘子昂_大地坐标转换\Geodetic coordinate transformation\Geodetic coordinate transformation\obj\x86\Debug\Geodetic_coordinate_transformation.Form1.resources
+C:\Users\多多\Desktop\2016114697_测绘1 班_刘子昂_大地坐标转换\Geodetic coordinate transformation\Geodetic coordinate transformation\obj\x86\Debug\Geodetic_coordinate_transformation.Properties.Resources.resources
+C:\Users\多多\Desktop\2016114697_测绘1 班_刘子昂_大地坐标转换\Geodetic coordinate transformation\Geodetic coordinate transformation\obj\x86\Debug\Geodetic coordinate transformation.csproj.GenerateResource.Cache
+C:\Users\多多\Desktop\2016114697_测绘1 班_刘子昂_大地坐标转换\程序文件夹\Geodetic coordinate transformation\Geodetic coordinate transformation\obj\x86\Debug\Geodetic coordinate transformation.exe
+C:\Users\多多\Desktop\2016114697_测绘1 班_刘子昂_大地坐标转换\程序文件夹\Geodetic coordinate transformation\Geodetic coordinate transformation\obj\x86\Debug\Geodetic coordinate transformation.pdb
+C:\Users\多多\Desktop\2016114697_测绘1 班_刘子昂_大地坐标转换\2016114697_测绘1 班_刘子昂_大地坐标转换\Geodetic coordinate transformation\obj\x86\Debug\Geodetic coordinate transformation.exe
+C:\Users\多多\Desktop\2016114697_测绘1 班_刘子昂_大地坐标转换\2016114697_测绘1 班_刘子昂_大地坐标转换\Geodetic coordinate transformation\obj\x86\Debug\Geodetic coordinate transformation.pdb
+D:\学习文件\大二实习\编程实习\2016114697_测绘1 班_刘子昂_大地坐标转换\2016114697_测绘1 班_刘子昂_大地坐标转换\Geodetic coordinate transformation\obj\x86\Debug\Geodetic coordinate transformation.exe
+D:\学习文件\大二实习\编程实习\2016114697_测绘1 班_刘子昂_大地坐标转换\2016114697_测绘1 班_刘子昂_大地坐标转换\Geodetic coordinate transformation\obj\x86\Debug\Geodetic coordinate transformation.pdb
+D:\学习文件\大二实习\编程实习\2016114697_测绘1 班_刘子昂_大地坐标转换\2016114697_测绘1 班_刘子昂_大地坐标转换\Geodetic coordinate transformation\bin\Debug\Geodetic coordinate transformation.exe
+D:\学习文件\大二实习\编程实习\2016114697_测绘1 班_刘子昂_大地坐标转换\2016114697_测绘1 班_刘子昂_大地坐标转换\Geodetic coordinate transformation\bin\Debug\Geodetic coordinate transformation.pdb
+D:\学习文件\大二实习\编程实习\2016114697_测绘1 班_刘子昂_大地坐标转换\2016114697_测绘1 班_刘子昂_大地坐标转换\Geodetic coordinate transformation\obj\x86\Debug\Geodetic coordinate transformation.csprojAssemblyReference.cache
+D:\学习文件\大二实习\编程实习\2016114697_测绘1 班_刘子昂_大地坐标转换\2016114697_测绘1 班_刘子昂_大地坐标转换\Geodetic coordinate transformation\obj\x86\Debug\Geodetic_coordinate_transformation.Form1.resources
+D:\学习文件\大二实习\编程实习\2016114697_测绘1 班_刘子昂_大地坐标转换\2016114697_测绘1 班_刘子昂_大地坐标转换\Geodetic coordinate transformation\obj\x86\Debug\Geodetic_coordinate_transformation.Properties.Resources.resources
+D:\学习文件\大二实习\编程实习\2016114697_测绘1 班_刘子昂_大地坐标转换\2016114697_测绘1 班_刘子昂_大地坐标转换\Geodetic coordinate transformation\obj\x86\Debug\Geodetic coordinate transformation.csproj.GenerateResource.cache
+D:\学习文件\大二实习\编程实习\2016114697_测绘1 班_刘子昂_大地坐标转换\2016114697_测绘1 班_刘子昂_大地坐标转换\Geodetic coordinate transformation\obj\x86\Debug\Geodetic coordinate transformation.csproj.CoreCompileInputs.cache
